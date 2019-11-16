@@ -36,6 +36,9 @@ With this experiement, we are going to host a web service in Frankfurt, and have
 Throughout the execution of the experiment and the results, we can see a significant downgrade of the responsetime of our server, depending on where the client is requesting the data from. We tried to do this as simple as possible(by responding with nothing more than a "Hello World!" string), and the results talks for themselves. The longer the distance, the higher the responsetime. To see this in retrospect, there are tools designed to eliminate these problems. One of the most popular solutions(in these modern days) is **_Geo-redundancy_**. This term refers to replication of multiple instances across the world, lowering the responsetime due to redudancy of locations. 
 <img src="https://github.com/Mokayed/UFO-hand-in-3/blob/master/geo-redundancy-featured.jpg"/>
 This tool could increase responsetime significantly. Hence, this could be a very expensive solution(explain more hazem saeid 15112019)
-MISSING CONCLUSION
+
+### Conclusion
+
+We can conclude that the complaints from USA and Asia were legit. This was proofed by the numbers that USA took almost 4 seconds, and that Asia took almost 7. This means that the new server should be somewhere between USA and Asia (could be New Zealand for example)
 
 
