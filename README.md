@@ -36,6 +36,6 @@ Throughout the execution of the experiment and the results, we can see a signifi
 This tool could increase responsetime significantly.
 ### Conclusion
 
-We can conclude that the complaints from USA and Asia were legit. This was proofed by the numbers that USA took almost 4 seconds, and that Asia took almost 7. This means that the new server should be somewhere between USA and Asia (could be New Zealand for example)
+We can conclude that the complaints from USA and Asia were legit. This was proofed by the numbers that USA took almost 4 seconds, and that Asia took almost 7. This means that the new server should be somewhere between USA and Asia (ideally in New Zealand since it had the worse performance in the experiment)
 
 
