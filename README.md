@@ -15,15 +15,13 @@ With this experiement, we are going to host a web service in Frankfurt, and have
 - Droplet on Digital Ocean
 - ProtonVPN(free version)
 ### Clients list(areas of where the request was made):
--   **_Taipei, Taiwan_**
--   **_Phenix, USA_**
--   **_Montreal, Canada_**
--   **_Copenhagen, Denmark_**
--   **_London, Great Britian_**
--   **_Johannesburg, South Africa_**
--   **_Sydney, Austalia_**
--   **_Auckland, New Zealand_**
--   **_Mumbai, India_**
+-   **_Taipei, Taiwan:_**
+-   **_Phenix, USA:_**
+-   **_Copenhagen, Denmark:_**
+-   **_Johannesburg, South Africa:_**
+-   **_Sydney, Austalia:_**
+-   **_Auckland, New Zealand:_**
+-   **_Mumbai, India:_**
 #### Results: 
 -   **_Taipei, Taiwan:_** 6.6213ms
 -   **_Phenix, USA:_** 3.733ms
