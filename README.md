@@ -1,4 +1,7 @@
 # UFO-hand-in-3
+
+Authors: Hallur við Neyst, Murched Kayed, Hazem Saeid
+
 ## Service hosted on Digital Ocean server in Frankfurt
 This project is an experiment on how well the server in Frankfurt will perform regarding the responsetime from different geographic locations. Furthermore the experiment will have an execution and from there, evaluate the respective outcome.  
 ### Hypothesis
